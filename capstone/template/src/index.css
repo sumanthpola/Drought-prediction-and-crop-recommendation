@@ -1,0 +1,10 @@
+
+/* Drought Monitor */
+@import 'css/plot.css';
+@import 'css/about.css';
+@import 'css/map.css';
+@import 'css/legend.css';
+
+body {
+    overflow: hidden;
+}
